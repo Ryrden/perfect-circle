@@ -77,6 +77,9 @@ If you want to contribute to this project, follow the steps below:
 
 Alternatively, consult the GitHub documentation on [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
+## Note
+Editing the variable STEP_INCREMENT to equal 90 allows the mouse to draw a square instead of a circle. Even though a square is not a circle, the max score is still reached. The reason for this is explained in a [video by Code Bullet.](https://www.youtube.com/watch?v=8jv8nOKR_Ck&ab_channel=CodeBulletsDayOff)
+
 ## License
 
 This project is under license. See [LICENSE](LICENSE) for more information.
